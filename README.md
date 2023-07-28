@@ -34,7 +34,7 @@ groups. All of the photographs for this project were scaled to
 ## Prerequisites
 MATLAB2022a, Pre-trained Model- ResNet-50, Multiclass SVM, Deep Learning
 ## Procedure 
-I have taken a multi-class disease dataset .Feature extraction is done by Resnet-50
+I have taken a multi-class disease dataset. Feature extraction is done by Resnet-50
 and VGG-16 while Classification is done by using Multi-class SVM.
 - Collecting Dataset from kaggle
 - Using equal number of images from unbalanced data
